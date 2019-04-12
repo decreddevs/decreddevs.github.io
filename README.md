@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the SF Decred Devs Meetup
 
-You can use the [editor on GitHub](https://github.com/decreddevs/decreddevs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SF Decred Devs is a monthly meetup designed to foster a community of developers, researchers, and investors dedicated to growing the Decred network. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We'll use this website to provide people with readings and resources for each meetup, ensuring each discussion is lively and participatory. This site will also serve as an easy way to stay up to date with development im the Decred ecosystem.
 
 ### Markdown
 
