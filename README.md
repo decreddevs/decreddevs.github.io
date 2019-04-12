@@ -30,7 +30,7 @@ The Internet Was Built on the Free Labor of Open Source Developers. Is That Sust
 Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin’s ‘Reference Client’
 
 
-###Discussion Questions
+### Discussion Questions
 
 1. What is the role of the early development team? How should they be fairly compensated for their work? 
 2. How might the incentives between private, venture-backed companies be misaligned with those of users and developers?
