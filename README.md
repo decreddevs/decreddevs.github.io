@@ -1,37 +1,44 @@
-## Welcome to the SF Decred Devs Meetup
+# Welcome to the SF Decred Devs Meetup
 
-SF Decred Devs is a monthly meetup designed to foster a community of developers, researchers, and investors dedicated to growing the Decred network. 
+SF Decred Devs is a monthly meetup designed to foster a community of developers, researchers, and investors dedicated to growing the Decred network. All information about the meetup including how to sign up for future events can be found here: https://www.meetup.com/San-Francisco-Decred-Meetup  
 
 We'll use this website to provide people with readings and resources for each meetup, ensuring each discussion is lively and participatory. This site will also serve as an easy way to stay up to date with development im the Decred ecosystem.
 
-### Markdown
+## April 18, 2018 — Coordinating Open Source: Today and Tomorrow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An open area of research for cryptocurrency projects is how to best fund their development and coordinate the various parties that help build the network. Like other open source projects, cryptocurrencies don’t extract revenue from their users. To date, it has been difficult to incentivize core protocol development without a clear profit motive. This has led to many tragedy of the commons situations. We recently saw this play out in the Grin ecosystem as a core developer couldn’t raise enough money to fund his work.
 
-```markdown
-Syntax highlighted code block
+To date, cryptocurrency funding can be broken up into three distinct groups:
+1. Ad Hoc — holders or independent parties fund special projects on a case by case basis
+2. Centralized Organization — some central entity, can be non-profit or for-profit, develops software for the blockchain. Examples include Ethereum Foundation, Block One, and Zcash Electric Coin Company
+3. Decentralized Autonomous Organization — Funding comes from some block reward and disbursement of funds happens through token holder voting
 
-# Header 1
-## Header 2
-### Header 3
+Decred is special in that it’s one of the only cryptocurrency projects to employ the DAO funding model. In Decred, contributors can submit proposals for work such as the addition of new features, marketing expenditure, or a new policy, on Politeia, which are then voted on by holders of DCR. Approved proposals are funded through a project treasury which collects 10% of each block reward. Right now, the treasury is controlled by a centralized group of actors, but in the future, it will be controlled through a DAO. Through this mechanism, Decred is a cryptocurrency that’s able to fund itself, while giving its contributors autonomy over their work and identity. 
 
-- Bulleted
-- List
+To better prepare for the seminar we’ve put together a reading list to help meetup attendees familiarize themselves with different cryptocurrency funding models.
 
-1. Numbered
-2. List
+### Reading List
 
-**Bold** and _Italic_ and `Code` text
+Decentralized Treasury Spending — Politeia Proposal
+Funding Cryptonetworks — Joel Monegro
+Decentralized autonomous funding of blockchain projects, scroll down to ‘Funding fit for commons-based peer production
+Funding, Incentives, and Governance — Zooko Wilcox
+Zcash & the founder incentive trilemma — Arjun Balaji
+Working for the DAE — Richard Red (long but worth it)
+Inside Moloch: A new DAO aims to fix Ethereum
+The Internet Was Built on the Free Labor of Open Source Developers. Is That Sustainable?
+Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin’s ‘Reference Client’
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###Discussion Questions
 
-### Jekyll Themes
+1. What is the role of the early development team? How should they be fairly compensated for their work? 
+2. How might the incentives between private, venture-backed companies be misaligned with those of users and developers?
+3. What are the tradeoffs between having a centralized vs decentralized team? Does it make sense for a cryptocurrency to use 4. both methods at different points in its lifecycle?
+5. At what stage in a cryptocurrency’s life does a DAO make sense? Can a DAO exist if the entity its governing isn’t valuable? 6. How are disputes between contractors resolved in a DAO?
+7. What roles does grant funding play in furthering open source software? Who should have the ultimate say over grant funding?
+8. How would you describe Bitcoin’s funding situation? Is this the most optimal?
+9. Is it important to have multiple teams working on the same reference implementation?
+10. What are different ways in which private, venture funded companies could build something that both captures value and benefits the greater whole of the network?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/decreddevs/decreddevs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
