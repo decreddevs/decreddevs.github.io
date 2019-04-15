@@ -19,16 +19,31 @@ To better prepare for the seminar we’ve put together a reading list to help me
 
 ### Reading List
 
-Decentralized Treasury Spending — Politeia Proposal
-Funding Cryptonetworks — Joel Monegro
-Decentralized autonomous funding of blockchain projects, scroll down to ‘Funding fit for commons-based peer production
-Funding, Incentives, and Governance — Zooko Wilcox
-Zcash & the founder incentive trilemma — Arjun Balaji
-Working for the DAE — Richard Red (long but worth it)
-Inside Moloch: A new DAO aims to fix Ethereum
-The Internet Was Built on the Free Labor of Open Source Developers. Is That Sustainable?
-Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin’s ‘Reference Client’
+Decentralized Treasury Spending — Politeia Proposal https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f
 
+Funding Cryptonetworks — Joel Monegro
+https://www.placeholder.vc/blog/2019/1/10/funding-cryptonetworks
+
+Decentralized autonomous funding of blockchain projects, scroll down to ‘Funding fit for commons-based peer production
+https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad
+
+Funding, Incentives, and Governance — Zooko Wilcox
+https://z.cash/blog/funding/
+
+Zcash & the founder incentive trilemma — Arjun Balaji
+https://medium.com/@arjunblj/zcash-the-founder-incentive-trilemma-fe7689fc8293
+
+Working for the DAE — Richard Red (long but worth it)
+https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa
+
+Inside Moloch: A new DAO aims to fix Ethereum
+https://decryptmedia.com/5206/fixing-ethereum
+
+The Internet Was Built on the Free Labor of Open Source Developers. Is That Sustainable?
+https://motherboard.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable
+
+Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin’s ‘Reference Client’
+https://bitcoinmagazine.com/articles/who-funds-bitcoin-core-development-how-the-industry-supports-bitcoin-s-reference-client-1459967859/
 
 ### Discussion Questions
 
