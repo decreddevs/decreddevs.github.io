@@ -25,7 +25,7 @@ Funding Cryptonetworks — Joel Monegro
 https://www.placeholder.vc/blog/2019/1/10/funding-cryptonetworks
 
 Decentralized autonomous funding of blockchain projects, scroll down to ‘Funding fit for commons-based peer production
-https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad
+(https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad)
 
 Funding, Incentives, and Governance — Zooko Wilcox
 https://z.cash/blog/funding/
