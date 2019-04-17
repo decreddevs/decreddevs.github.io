@@ -19,7 +19,7 @@ To better prepare for the seminar we’ve put together a reading list to help me
 
 ### Reading List
 
-Decentralized Treasury Spending — Politeia Proposal https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f
+Decentralized Treasury Spending — Politeia Proposal {https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f}
 
 Funding Cryptonetworks — Joel Monegro
 https://www.placeholder.vc/blog/2019/1/10/funding-cryptonetworks
