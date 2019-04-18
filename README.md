@@ -34,7 +34,7 @@ Zcash & the founder incentive trilemma — Arjun Balaji
 <https://medium.com/@arjunblj/zcash-the-founder-incentive-trilemma-fe7689fc8293>
 
 Working for the DAE — Richard Red (long but worth it)
-<(https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa>
+<https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa>
 
 Inside Moloch: A new DAO aims to fix Ethereum
 <https://decryptmedia.com/5206/fixing-ethereum>
